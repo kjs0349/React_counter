@@ -1,6 +1,8 @@
 # React_counter
 리액트를 이용해 +/- 버튼을 구현해 보았습니다.
 
+![React_counter](https://user-images.githubusercontent.com/61913417/108501697-07e60080-72f5-11eb-9c74-1fc8e6cf50b7.gif)
+
 ## 공부
 creat-react-app 설치!
 > npm install -g creat-react-app
